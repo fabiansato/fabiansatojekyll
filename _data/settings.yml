@@ -1,11 +1,11 @@
 #-------------------------------
 # Site Settings
 
-title: FabianSato
-tab__title: Fabian Sato - Web dev Senior y Geek
-meta__title: Fabian Sato – Full Stack Web developer y diseñador digital
-logo: #'/images/logo.png'
-description: Fabian Sato – Trabajos de desarrollo web, programación y diseño
+title: FabianSato 
+tab__title: FabianSato ¡Todos podemos programar! Programación y tecnología
+meta__title: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
+logo: #'/images/logo.webp'
+description: Ingeniero de software en DEPT™. Artículos, vídeos, recursos y tutoriales sobre  programación, Frontend, JavaScript ☕️, React ⚛️, CSS y tecnología
 
 menu__settings:
   menu__items:
@@ -28,10 +28,10 @@ menu__settings:
 
 # Call to action button
 cta__button__text: Cursos
-cta__button_url: 'https://fabiansato.com/cursos'
+cta__button_url: 'https://fabiansato.com/'
 
 # Add global cover image (This field adds a background to the top and bottom of the site.)
-cover__image: '/images/cover-image.jpg'
+cover__image: '/images/cover-image.webp'
 
 
 #-------------------------------
@@ -45,8 +45,8 @@ author:
    <b>Desarrollador Web Senior</b> en <b>Unilever</b> con plataforma Adobe Experience Manager (AEM).<br/>
 <b>Tecnologías</b>: HTML, CSS, Javascript, PHP, Mysql, Reactjs, NodeJS.<br/>
 <b>Títulos</b>: de diseñador gráfico digital y Fullstack Developer + React (Universidad Tecnológica nacional). Además me encanta muchisimo el mundo Geek 🤓 "
-  image: '/images/sato-avatar-full.png'
-  avatar: '/images/sato-avatar.png'
+  image: '/images/sato-avatar-full.webp'
+  avatar: '/images/sato-avatar.webp'
   button__text: Ver mi trabajo
 
 
@@ -82,7 +82,7 @@ testimonial-items:
     content : "If you are using Angular in a professional setting I can not recommend The Angular Tutorial highly enough."
 
   # - name: "Julie Arnold"
-  #   image: "/images/client-4.jpg"
+  #   image: "/images/client-4.webp"
   #   designation : "Full stack developer"
   #   content : "Quamquam id quidem, infinitum est in hac urbe, Ita multo sanguine profuso in laetitia et in victoria est mortuus. Atqui pugnantibus et contrariis consiliisque."
 
@@ -123,7 +123,7 @@ disqus-identifier: https-fabiansato-github-io # add your shortname for Disqus Co
 
 #-------------------------------
 # Google Analytics
-google-analytics: G-GR3D1LT7PP # Add your identifier. For example UA-99631805-1.
+google-analytics: G-EWFWEGYPFP # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------

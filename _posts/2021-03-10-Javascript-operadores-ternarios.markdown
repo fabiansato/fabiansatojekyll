@@ -7,8 +7,8 @@ excerpt: >-
   El operador ternario es aquel que nos sirve para escribir el código de una sentencia if de una forma más sencilla. Veremos como hacerlo
 description: >-
   El operador ternario es aquel que nos sirve para escribir el código de una sentencia if de una forma más sencilla. Veremos como hacerlo
-image: '/images/blog/javascript-operadores-ternarios.png'
-thumb_image: '/images/blog/javascript-operadores-ternarios.png'
+image: '/images/blog/javascript-operadores-ternarios.webp'
+thumb_image: '/images/blog/javascript-operadores-ternarios.webp'
 style: code
 author: fabiansato
 ---

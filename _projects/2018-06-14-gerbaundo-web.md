@@ -3,7 +3,7 @@ title: Gerbaundo Hermanos Web
 date: 2018-06-14 07:30:35 +0300
 subtitle: Desarrollo Web
 description: Cliente - Gerbaundo
-image: '/images/portfolio/gerbaundo.jpg'
+image: '/images/portfolio/gerbaundo.webp'
 ---
 
 
@@ -28,4 +28,4 @@ Programación de página web, diseño UX/UI y desarrollo de página de e-commerc
 <div class="block-header inner-sm" style="margin-bottom: 1.5em">
   <h2 class="block-title line-top">Screenshot Completo:</h2>
 </div>
- <img src="/images/portfolio/gerbaundofull.jpg">
+ <img src="/images/portfolio/gerbaundofull.webp">

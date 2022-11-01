@@ -7,8 +7,8 @@ excerpt: >-
   En este simple tutorial aprenderemos a subir nuestro proyecto ReactJS a un servidor compartido
 description: >-
   En este simple tutorial aprenderemos a subir nuestro proyecto ReactJS a un servidor compartido
-image: '/images/blog/reactjs-subir-a-un-server-tradicional.jpg'
-thumb_image: '/images/blog/reactjs-subir-a-un-server-tradicional.jpg'
+image: '/images/blog/reactjs-subir-a-un-server-tradicional.webp'
+thumb_image: '/images/blog/reactjs-subir-a-un-server-tradicional.webp'
 style: code
 author: fabiansato
 ---

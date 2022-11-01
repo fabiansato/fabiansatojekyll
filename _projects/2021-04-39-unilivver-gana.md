@@ -3,7 +3,7 @@ title: Data capture - Uniliver Participá y ganá
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/unilivver-gana.jpg'
+image: '/images/portfolio/unilivver-gana.webp'
 ---
 
 

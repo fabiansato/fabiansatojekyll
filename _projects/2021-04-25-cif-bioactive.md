@@ -3,7 +3,7 @@ title: Data capture - Cif Bioactive
 date: 2021-09-14 07:30:35 +0300
 subtitle: Trabajo junto a Oliver Argentina
 description: Cliente - Oliver
-image: '/images/portfolio/cifbioactive.jpg'
+image: '/images/portfolio/cifbioactive.webp'
 ---
 
 
