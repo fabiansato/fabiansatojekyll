@@ -4,10 +4,20 @@
 {% include head.html %}
 
 <body>
-
+<!--
   {% if site.data.settings.google-analytics %}
     {% include google-analytics.html %}
   {% endif %}
+-->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EWFWEGYPFP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EWFWEGYPFP');
+</script>
 
   {% if site.data.settings.cover__image %}
     <div class="top-cover">
@@ -35,7 +45,7 @@
 
   <script src="{{ site.baseurl }}/js/scripts.js"></script>
   <script>
-    var itype_text = [{{site.data.settings.mailchimp__settings.mailchimp__text}}];
+    var itype_text = ["{{site.data.settings.mailchimp__settings.mailchimp__text}}"];
   </script>
   <script src="{{ site.baseurl }}/js/common.js"></script>
 
