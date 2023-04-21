@@ -19,12 +19,11 @@ menu__settings:
       url: '/acercade'
     - title: 'Links'
       url: '/links'
-    # - title: 'Pages'
-    #   submenu:
-    #   - url: '/about'
-    #     title: 'About'
-    #   - url: '/elements'
-    #     title: 'Elements'
+#    - title: 'Pages'
+#      submenu:
+#      - url: '/git'
+#         title: 'Git & Github'
+
 
 # Call to action button
 cta__button__text: Cursos
